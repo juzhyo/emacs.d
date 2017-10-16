@@ -1,0 +1,249 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/css/" . "Old/")
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/" . "css/")
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/" . "public_html/")
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Colloidal Lithography/" . "Report/")
+ ("/home/justin/Documents/Tufte-LaTeX-tufte-latex-v3.5.2-7-g85b49a3/" . "Tufte-LaTeX-tufte-latex-85b49a3/")
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Meep Simulations/Plasmonic Structures/" . "Control Files/")
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Meep Simulations/" . "Plasmonic Structures/")
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/" . "Interference Effect Calculations/")
+ ("/home/justin/Nextcloud/Documents/Lab Work/" . "Projects/")
+ ("/home/justin/Nextcloud/Documents/" . "Lab Work/")
+ ("/home/justin/Nextcloud/" . "Documents/")
+ ("/home/justin/Dropbox/lab/Projects/public_html/" . "css/")
+ ("/home/justin/new/" . "auto/")
+ ("/home/justin/Downloads/starter-template/" . "css/")
+ ("/home/justin/Dropbox/lab/Reports/" . "Shisheng's Samples/")
+ ("/home/justin/Dropbox/lab/Projects/Lab Website/assets/" . "css/")
+ ("/home/justin/Dropbox/lab/Projects/Lab Website/" . "assets/")
+ ("/home/justin/Dropbox/lab/Projects/" . "public_html/")
+ ("/home/justin/Documents/" . "Tufte-LaTeX-tufte-latex-v3.5.2-7-g85b49a3/")
+ ("/home/justin/Downloads/html5up-future-imperfect/assets/" . "css/")
+ ("/home/justin/Downloads/html5up-future-imperfect/" . "assets/")
+ ("/home/justin/Downloads/energy/energy/" . "js/")
+ ("/home/justin/Downloads/energy/" . "energy/")
+ ("/home/justin/Downloads/" . "starter-template/")
+ ("/home/justin/Dropbox/lab/Notebook/graphics/" . "18/")
+ ("/home/justin/Dropbox/lab/Notebook/" . "graphics/")
+ ("/home/justin/Dropbox/lab/" . "Projects/")
+ ("/home/justin/Dropbox/" . "lab/")
+ ("/home/justin/" . "Nextcloud/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/justin/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Interference Effect Calculations/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/css/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/css/Old/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/js/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/Guidelines/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Colloidal Lithography/Report/"
+ "/home/justin/Documents/Tufte-LaTeX-tufte-latex-v3.5.2-7-g85b49a3/Tufte-LaTeX-tufte-latex-85b49a3/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Meep Simulations/Plasmonic Structures/Control Files/"
+ "/home/justin/Nextcloud/Documents/Lab Work/Projects/Plotting Scripts/"
+ "/home/justin/Dropbox/lab/Projects/public_html/"
+ "/home/justin/Dropbox/lab/Projects/public_html/css/"
+ "/home/justin/Dropbox/lab/Projects/Colloidal Lithography/"
+ "/home/justin/Downloads/starter-template/"
+ "/home/justin/Downloads/starter-template/css/"
+ "/home/justin/Dropbox/lab/Projects/Lab Website/"
+ "/home/justin/new/"
+ "/home/justin/Dropbox/Resume/"
+ "/home/justin/Dropbox/lab/Projects/Lab Website/assets/css/"
+ "/home/justin/Downloads/"
+ "/home/justin/Downloads/starter-template/js/"
+ "/home/justin/Dropbox/lab/Reports/Shisheng's Samples/"
+ "/home/justin/Dropbox/lab/Notebook/graphics/18/"
+ "/home/justin/Dropbox/lab/Reports/Template/"
+ "/home/justin/Dropbox/lab/Notebook/graphics/08/"
+ "/home/justin/Dropbox/lab/Notebook/graphics/14/"
+ "/home/justin/Dropbox/lab/Projects/Lab Website/assets/js/"
+ "/home/justin/Dropbox/lab/Notebook/graphics/17/"
+ "/home/justin/Dropbox/lab/Notebook/"
+ "/davs:"
+ "/home/justin/davs:/220.255.144.164/remote.php/webdav/"
+ "davs://220.255.144.164/remote.php/webdav/"
+ "/home/justin/Dropbox/lab/Notebook/graphics/13/"
+ "/home/justin/Dropbox/lab/Notebook/graphics/12/"
+ "/home/justin/Dropbox/lab/Reports/Ivan's Metal Pores Samples/"
+ "/home/justin/Dropbox/lab/Notebook/graphics/09/"
+ "/home/justin/Downloads/tufte-latex-master/"
+ "/home/justin/Dropbox/lab/Notebook/graphics/07/"
+ "/home/justin/Dropbox/lab/eda_lab/"
+ "/home/justin/Downloads/Tufte-LaTeX-tufte-latex-85b49a3/"
+ "/home/justin/Downloads/html5up-future-imperfect/"
+ "/home/justin/Downloads/html5up-future-imperfect/assets/css/"
+ "/home/justin/Downloads/energy/energy/js/"
+ "/home/justin/Downloads/energy/energy/css/"
+ "/home/justin/Downloads/energy/energy/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "dockerfile"
+ "calc.m"
+ "index.html"
+ "update.py"
+ "publications.html"
+ "archive.html"
+ "members.html"
+ "research.html"
+ "materialize.css"
+ "positions.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/justin/Downloads/" (23007 32507 887170 467000) "[deanzel] Spirited Away [BD 1080p Hi10p Dual Audio FLAC][72044eca].mkv" "public_html/" "group meeting template.pptx" "gwyddion-release-26-1.fc26.noarch.rpm" "Tutorial Strange city.rar" "d2PayFrame_files/" "grouplogo_invert.png" "grouplogo.png" "calc2latex_024_eur_linux.zip" "pore_substrate.pptx" "Steinberg.zip" "_442e88b97aa6aea46ee426a54c797700_shaojie_shen_thesis.pdf" "gsvit-1.8.1-1.1.x86_64.rpm" ".~lock.application_checklist_gda21.doc#" "starter-template/" "Receipt.pdf" "LuckyPatcher.apk" "Bill.Burr.Walk.Your.Way.Out.2017.1080p.WEBRip.x264-RARBG/" "ReFX.Nexus.v2.2.VSTi.RTAS.DVDR-AiRISO/" "d2PayFrame.pdf" "com.plexapp.android.apk" "d2PayFrame.html" "calc2latex_024_eur_linux/" "../" "./")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Interference Effect Calculations/" (22857 20696 722685 820000) "./" "../" "wse2_idx.mat" "si_optical_indices.mat" "figI.png" "graphene_optical_indices.mat" "six.m" "*shell*" "figEnhance.png" "run.m" "absorptionEnhance.png" "Data/" "optical_indices.mat" "Papers/" "figI_quartz.png" "calc.m" "nk.png")
+
+ ("/home/justin/" (23009 44465 689200 636000) ".gwyddion/" "Calculation of enhancement factor.docx" ".esd_auth" ".subversion/" "./" ".guile_history" "../" "Nextcloud/" ".cache/" ".lmmsrc.xml" "labels.xcf" "Music/" "Arduino/" ".ICEauthority" "group meeting template.pptx" ".wget-hsts" ".emacs.d/" "Templates/" ".dropbox-dist/" ".odbc.ini" ".gimp-2.8/" ".gtk-bookmarks" ".FreeCAD/" "Public/" "Downloads/" ".VESTA/" "Dropbox/" "Documents/" "bin/" "statementofpurpose.odt" "my-gnomeshell.pp" ".texlive2015/" "readme.html" "presentation.pdf" "meeting/" ".wine/" "Group meeting 2017.10.09.pdf" ".jssc/" ".bash_logout" ".fltk/" ".gem/" "my-gnomeshell.te" "lmms/" ".octave_hist" "Videos/" ".gnome2/" ".bundle/" ".local/" ".ssh/" ".gnome/" "Desktop/" ".java/" ".gitconfig" ".bash_history" ".mozilla/" "Pictures/" "Presentation/" ".thumbnails/" ".bashrc" "Products/" ".bash_profile" ".config/" ".emacs.d.pre-prelude.tar" "presentation.pptx" ".mplayer/" ".matlab/" ".arduino15/" ".pki/" ".gnupg/" ".dropbox/" ".xsvit/" ".linuxbrew/")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/" (22844 7741 899647 910000) "Energy Transfer/" "./" "../" "Plexcitons/" "Angle-dependent PLE/" "Sample Characterization/" "Colloidal Lithography/" "Zhang Qi's Crystal Structures/" "automated-PLE/" "PS Diameter v.s. Peak Energy/" "Interference Effect Calculations/" "facilities.html" "Plotting Scripts/" "archive.html" "index.html" "research.html" "lab-website/" "positions.html" "Test/" "CVD/" "Optical Identification/" "Meep Simulations/" "Kramers-Kronig Inversion/" "publications.html" "Guidelines/")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/" (22834 54736 998971 397000) "IMG_20161005_164437.jpg" "ch4_7.pdf" "x50.jpg" "RIE Chart for 836nm PS.ods" "./" "../" "ws2_sample3_x50_3.png" "ws2_sample3_x100_3.png" "Notebook/" "ws2_sample4_x20_2.png" "ws2_sample3_x100_5.png" "Oxford Plasma DRIE/" "ws2_sample3_x100_4.png" "Title.jpg" "RIE Chart for 836nm PS.xlsx" "ws2_sample3_x20_3.png" "IMG_20161003_094331.jpg" "SOP/" "ws2_sample3_x20_5.png" "Progress Reports/" "ws2_sample3_x20.png" "ws2cvt10.pdf" "ws2_sample3_x20_2.png" "Reports/" "ws2_sample3_x20_4.png" "ws2_sample3_x100.png" "RIE Chart for 836nm PS.csv" "Reference Data/" "ws2_sample2_x10.png" "j160101_AFM.png" "ws2_sample4_x20.png" "RIE Chart for 836nm PS.xls" "Literature Reviews/" "Projects/" "ws2_sample3_x100_2.png" "Presentation/" "ws2_sample4_x50.png" "2D materials advances: from large scale synthesis and controlled heterostructures to improved characterization techniques, defects and applications.pdf" "IMG_20161003_150347.jpg" "ws2_sample3_x50_5.png" "Exfoliation/" "abasic.pdf" "Papers/" "ws2_sample2_x50.png" "ws2_sample4_x100_2.png" "ws2_sample4_x100.png" "ws2_sample3_x50_2.png" "ws2cvt10.png" "ws2_sample3_x50_4.png" "ws2_sample3_x50.png")
+
+ ("/home/justin/Nextcloud/Documents/" (22844 7741 927648 852000) "Japan Itenerary/" "Justin/" "Andor_Software_Development_Kit_3.pdf" "Matrix Data/" "Lab Work/" "./" "../" "Justin Zhou to Boon Shing.png" "Frederick S Woods-Advanced calculus -Ginn and company (1934).djvu" "Consumer Online Registration _ PDPC - Do Not Call Registry.pdf" "Nicky Romero Kickstart.v1.0.4 WiN/" "juzhyo.github.io/" "oft_partition, 2));" "EIMQcTc.jpg" "Lend to Bian Gang.pdf" "Engineering the Charge Transfer in all 2D Graphene-Nanoplatelets Heterostructure Photodetectors.pdf" "FYP/" "Effects of edge on graphene plasmons as revealed by infrared nanoimaging.pdf" "Aitcen.pdf" "Untitled Document 1" "J170101_optical_20.png" "Example.odt" "About.odt" "Justin.zip" "img-170601112536-001.jpg" "VEffects Vol.1/" "Presentation Template.odp" "Selective Probing of Hidden Spin-Polarized States in Inversion-Symmetric Bulk.pdf" "howto-tube.pdf" "Andor_SDK3_Manual.pdf" "Software Development Kit.pdf" "(International series of monographs on physics) Max Born_ Kʻun Huang-Dynamical theory of crystal lattices-Oxford, Clarendon Press  (1954).pdf" "GB_XTovX0.pptx" "Kaiyan Funk Shirt.pdf" "Hartmut Haug, Stephan W. Koch,-Quantum Theory of the Optical and Electronic Properties of Semiconductors, Fourth Edition (2004).pdf" "Data/" "Surface Plasma Oscillations of a Degenerate Electron Gas.pdf" "VEEffects Vol.3/" "crc.pdf" "emacs/" "as small blue x's." "DSCF0465.JPG" "(Solid State Physics) Neil  W. Ashcroft, N.  David Mermin-Brooks Cole (1976).pdf" "VFHVol.4/" "About.txt" "ter_centers, ..." "text-WS2PL_yc10.docx" "Total intensity map2.pptx" "AFM 20170507/" "eBooks/" "Kaiyan Funk Shirt 2.pdf" "photo1.jpg" "Papers/" "Total intensity map.pptx" "img-170601112536-001.jpg.xmp" "Vengeance Effects Vol.2/" "J170101_optical_100.png")
+
+ ("/home/justin/Nextcloud/" (22844 7756 961154 768000) "./" "../" "files_external/" "appdata_ocxzsqz6i6ch/" ".csync_journal.db" ".owncloudsync.log.1" "nextcloud.log" "Documents/" ".csync_journal.db-shm" "Nextcloud.mp4" ".owncloudsync.log" "index.html" "appdata_occkupofxdv1/" "eBooks/" "Nextcloud Manual.pdf" ".csync_journal.db-wal")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/" (22827 52214 421148 625000) "./" "../" "fonts/" "members.html" "js/" "links.html" "css/" "LICENSE" "facilities.html" "images/" "archive.html" "index.html" "research.html" "positions.html" "publications.html" "Guidelines/")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/" (22826 42740 396336 186000) "public_html/" "./" "../" "members.html" "links.html" "LICENSE.txt" "assets/" "update.py" "facilities.html" "images/" "geckodriver.log" "archive.html" "index.html" "research.html" "positions.html" "Website Backup/" "publications.html" "single.html")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/css/" (22826 22185 388782 837000) "Old/" "./" "../" "materialize.min.css" "materialize.css" "style.css")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/css/Old/" (22825 37215 964415 176000) "./" "../" "materialize.min.css" "materialize.css" "style.css")
+
+ ("/home/justin/Documents/Tufte-LaTeX-tufte-latex-v3.5.2-7-g85b49a3/Tufte-LaTeX-tufte-latex-85b49a3/" (22817 28928 57468 359000) "./" "../" ".gitignore")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Colloidal Lithography/Report/" (22825 35021 132438 111000) "./" "History.txt" "../" "sample-book.lot" "sample-book_conflict-20170512-103800.toc" "sample-book.ilg" "tufte-common.def" "sample-book.bbl" "sample-book.synctex.gz" "sample-book_flymake.toc" "graphics/" "sample-book.out" "_region_.tex" "sample-book_flymake.lot" "sample-book.aux" "sample-book_conflict-20170512-103800.log" "sample-book.idx" "sample-book_conflict-20170512-103800.out" "sample-book_conflict-20170512-103800.lof" "tufte-book.cls" "sample-book_conflict-20170512-103800.aux" "sample-handout.bib" "README.md" "sample-book_conflict-20170512-103800.lot" "sample-book_conflict-20170512-103800.pdf" "sample-book.pdf" "sample-book.toc" "sample-book.ind" "release" "sample-book_flymake.out" "sample-book.tex" "sample-book_conflict-20170512-103755.tex" "sample-book_flymake.lof" "sample-book_flymake.aux" "sample-book.lof" "auto/" "sample-book_flymake.log" "sample-book_flymake.idx" "sample-book.blg" "Manifest.txt" "sample-book.log" "tufte.bst")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/Guidelines/" (22817 29520 708034 885000) "./" "History.txt" "../" "sample-book.lot" "sample-book.ilg" "tufte-common.def" "sample-book.bbl" "sample-book.synctex.gz" "graphics/" "sample-book.out" "sample-book.aux" "sample-book.idx" "tufte-handout.cls" "tufte-book.cls" "README.md" "sample-book.pdf" "sample-book.toc" "sample-book.ind" "release" "sample-book.tex" "sample-book.lof" "auto/" "sample-book.blg" "Manifest.txt" "sample-book.log" "tufte.bst")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Website/public_html/js/" (22826 15634 750271 95000) "./" "../" "init.js" "materialize.min.js" "materialize.js")
+
+ ("/home/justin/Dropbox/lab/Notebook/" (22726 47993 762199 712000) "lab_notebook.aux" "./" "../" "lab_notebook.toc" "lab_notebook.tex" ".Rhistory" "tufte-common.def" "graphics/" "lab_notebook.lot" "tufte-book.cls" "lab_notebook.out" "lab_notebook.idx" "lab_notebook.log" "lab_notebook.bbl" "lab_notebook.synctex.gz" "lab_notebook.bib" "lab_notebook.blg" ".ipynb_checkpoints/" "lab_notebook.pdf" "lab_notebook.lof" "auto/" "*R*" "lab_notebook.dvi" "tufte.bst")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/08/" (22726 48002 52645 868000) "#J160801.r#" "J160804_optical_10.png" "J160802_optical_10.png" "J160804_abs_all.pdf" "J160803_abs_all.pdf" "J160803_transmission_all.pdf" "./" "../" "J160802_transmission_ag_holes.txt" "J160801_transmission_all.pdf" "J160802_optical_bot_10.png" "J160804_transmission_au.txt" "J160803_transmission_au.txt" "J160801_optical_10.png" "J160803.r" "J160802_transmission_glass.txt" ".Rhistory" "J160801.r" "J160803_transmission_au_holes.txt" "J160802_abs.pdf" "J160804_transmission_au_holes.txt" "2016.10.30_0_justin.mdt" "J160804_optical_bot_10.png" "J160803_abs_diff.pdf" "J160802.r" "J160801_optical_bot_10.png" "J160801_abs.pdf" "J160801_abs.txt" "J160801_transmission_glass.txt" "J160802_transmission_all.pdf" "J160801_transmission_sin.txt" "J160804_transmission_glass.txt" "J160803_optical_bot_10.png" "J160803__J160804_diff_all.pdf" "J160804_transmission_si3n4.txt" "J160803_optical_10.png" "J160801_transmission_ag_holes.txt")
+
+ ("/home/justin/Downloads/starter-template/js/" (22737 19202 0 0) "./" "../" "init.js" "materialize.min.js" "materialize.js")
+
+ ("/home/justin/Downloads/starter-template/css/" (22746 52368 0 0) "./" "../" "materialize.min.css" "materialize.css" "style.css")
+
+ ("/home/justin/Downloads/starter-template/" (22817 26553 773943 359000) "./" "../" "fonts/" "js/" "css/" "LICENSE" "index.html")
+
+ ("/home/justin/Dropbox/lab/Projects/Colloidal Lithography/" (22686 59419 460003 950000) "./" "History.txt" "../" "sample-book.lot" "sample-book.ilg" "tufte-common.def" "sample-book.bbl" "sample-book.synctex.gz" "graphics/" "sample-book.out" "_region_.tex" "sample-book.aux" "sample-book.idx" "tufte-book.cls" "sample-handout.bib" "README.md" "sample-book.pdf" "sample-book.toc" "sample-book.ind" "release" "sample-book.tex" "sample-book.lof" "auto/" "sample-book.blg" "Manifest.txt" "sample-book.log" "tufte.bst")
+
+ ("/home/justin/Dropbox/lab/Projects/public_html/css/" (22689 51643 249941 228000) "./" "../" "materialize.min.css" "materialize.css" "style.css")
+
+ ("/home/justin/Dropbox/lab/Projects/public_html/" (22727 65273 30329 25000) "./" "../" "fonts/" "members.html" "js/" "links.html" "css/" "LICENSE" "facilities.html" "images/" "archive.html" "index.html" "research.html" "positions.html" "publications.html")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Meep Simulations/Plasmonic Structures/Control Files/" (22799 2898 795396 295000) "plasmonics0_99.csv" "./" "../" "plasmonics0_425.csv" "plasmonics0_836.csv" "plasmonics1.out" "plasmonics-refl-flux.h5" "plasmonics-eps-000000000.h5" "plasmonics1.csv" "plasmonics0_607.csv" "plasmonics1_836.csv" "plasmonics1_211.csv" "eps.vtk" "plasmonics0.out" "plasmonics1_425.csv" "plasmonics-eps-000000.00.h5" "plasmonics1_99.csv" "plasmonics.ctl" "plasmonics1_607.csv" "plasmonics0.csv" "plasmonics0_211.csv")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Presentation/" (22796 34797 209138 964000) "./" "../" "transcript.odt" "group meeting template.pptx" "Group Meeting 170508/" "2015.11.30 - group meeting (value proposition).pdf" "presentation.pdf" "Chapter 5 Carlson Innovation book 9-24-15.pdf" ".~lock.Presentation Template.odp#" "presentation.pptx" "Harmonic Errors Associated with the Use of Choppers in Optical Experiments/")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Colloidal Lithography/" (22739 52712 790782 23000) "./" "../" "Data/" "Papers/" "Report/")
+
+ ("/home/justin/Documents/Tufte-LaTeX-tufte-latex-v3.5.2-7-g85b49a3/" (22800 33068 868717 48000) "./" "../" "Tufte-LaTeX-tufte-latex-85b49a3/")
+
+ ("/home/justin/Documents/" (22800 33070 781785 930000) "./" "../" "DBS iBanking Boon Shing.pdf" "Tufte-LaTeX-tufte-latex-v3.5.2-7-g85b49a3/" "Statement of Purpose/" "Internship Outline.docx" "Neurohacking-master/" "(C6H5CH2CH2NH3)2PbI4.png" "post installation" "Colloidal nanolithography/")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Meep Simulations/Plasmonic Structures/" (22796 34823 674076 237000) "./" "../" "Paper/" "Control Files/")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Meep Simulations/" (22797 34997 317392 475000) "./" "../" "Optical fibre cavity for ring-down experiments with low coupling losses/" "Plasmonic Structures/" "Biosensing using plasmonic nanohole arrays with small, homogenous and tunable aperture diameters/")
+
+ ("/home/justin/Nextcloud/Documents/Lab Work/Projects/Plotting Scripts/" (22758 7156 6386 970000) "./" "../" "plot_basic.r" "Rplots.pdf" "basic_plot.py" "output.pdf")
+
+ ("/home/justin/lmms/build/plugins/vst_base/" (22743 51106 884961 401000) "moc_VstPlugin.cxx" "Makefile" "./" "../" "CMakeFiles/" "cmake_install.cmake" "moc_VstPlugin.cxx_parameters")
+
+ ("/home/justin/Dropbox/" (22676 4817 146461 884000) "summary/" "Moderncv Classic/" "Justin/" "./" "../" "1010185400S-Video.png" "photo_id.pdf" "MW screenshot.png" "20161010_J160201_AFM_1.5.png" ".emacs.d/" "apps/" "transcript (1).pdf" "Camera Uploads/" ".Rhistory" "Application.pdf" "Inventories/" "Meeting/" "img-160907135152.pdf" "apk/" "PhysRevX.6.011026.pdf" "img-161002153341.pdf" "20161003_ws2_cvt10_4_pl.txt" "statementofpurpose.docx" ".dropbox.cache/" "relativity.pdf" "Summary.pdf" "20161010_J160201_AFM.png" "HTML_and_CSS/" "lab/" "A0094492_TrainingCertificate_32466.pdf" "Duke-NUS Internship/" "media/" ".~2730582866326679239HI" "N_SR_TSRPT.pdf" "IVLE/" "1st Aug 2016 JC Presentation - Justin.pptx" "20161003_ws2_cvt10_1_pl.txt" "20161003_ws2_cvt10_3_pl.txt" "transcript.pdf" "0202_optical_100_ps.jpg" "code/" "eBooks/" "img-161002153405.pdf" "wallpapers/" "1207.7356.pdf" "degree_scroll.pdf" "*R*" "Resume/" "purpose.pdf" "Getting Started.pdf" ".dropbox" "img-160907135214.pdf" ".RData" "A0094492_TrainingCertificate_32570.pdf")
+
+ ("/home/justin/Dropbox/lab/Projects/" (22662 49339 818136 71000) "public_html/" "Energy Transfer/" "./" "../" "Colloidal Lithography/" "Lab Website/" "Zhang Qi's Crystal Structures/" "Stoke Shift/")
+
+ ("/home/justin/Dropbox/lab/Projects/Lab Website/" (22654 54156 614076 631000) "./" "../" "members.html" "links.html" "LICENSE.txt" "assets/" "facilities.html" "images/" "archive.html" "index.html" "research.html" "positions.html" "publications.html" "single.html")
+
+ ("/home/justin/new/" (22648 30176 926726 225000) "./" "../" "purpose.synctex.gz" "purpose.aux" "purpose.tex" "auto/" "purpose.pdf" "purpose.log")
+
+ ("/home/justin/Dropbox/Resume/" (22520 36205 626570 439000) "._Resume.pdf" "cv_9.tex~" "./" "../" "._cv_9.tex~" "._Resume.tex" "Resume.aux" "_region_.tex" "Resume.tex~" "._auto" "Resume.tex" "Resume.pdf" "._Resume.log" "._Resume.out" "._Resume.tex~" "Resume.out" "._Resume.aux" "auto/" "Resume.log")
+
+ ("/home/justin/new/auto/" (22648 28980 145169 227000) "./" "../" "purpose.el")
+
+ ("/home/justin/Dropbox/lab/Projects/Lab Website/assets/css/" (22636 51664 443492 921000) "./" "../" "animate.css" "main.css" "ie8.css" "main backup.css" "ie9.css" "font-awesome.min.css" "flexslider.css")
+
+ ("/home/justin/Dropbox/lab/Reports/Template/" (22616 55143 306214 480000) "./" "../" "tufte-common.def" "graphics/" "tufte-handout.cls" "tufte-book.cls" "sample-handout.tex" "sample-book.tex" "auto/" "tufte.bst")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/18/" (22617 59337 121629 429000) "./" "J161801_pl_1.txt" "../" "J161801_optical_100.png" "J161802_optical_20.png" ".Rhistory" "J161802_pl.pdf" "J161001_pl_3.txt" "J161001_pl.pdf" "J161001_pl_si_1.txt" "18.r" "J161802_optical_100.png" "J161801_pl_3.txt" "J161802_pl_1.txt" "J161801_pl.pdf" "J161801_pl_si_1.txt" "J161802_pl_si_1.txt" "J161802_pl_2.txt" "J161801_optical_20.png" "J161802_pl_3.txt" "J161801_pl_2.txt" "J161001_pl_0pt5.txt" "J161001_pl_2.txt" "J161001_pl_1.txt")
+
+ ("/home/justin/Dropbox/lab/Reports/Shisheng's Samples/" (22617 61522 512885 8000) "shisheng.synctex.gz" "./" "../" "tufte-common.def" "graphics/" "shisheng.out" "tufte-handout.cls" "sample-handout.bib" "shisheng.aux" "shisheng.log" "shisheng.pdf" "auto/" "shisheng.bbl" "shisheng.tex" "tufte.bst" "shisheng.blg")
+
+ ("/home/justin/Dropbox/lab/" (22625 53859 515331 583000) "IMG_20161005_164437.jpg" "x50.jpg" "./" "../" "ws2_sample3_x50_3.png" "scotch_transparent_greener_tape.png" "ws2_sample3_x100_3.png" "Notebook/" "ws2_sample4_x20_2.png" "Colloidal Lithography/" "ws2_sample3_x100_5.png" "ws2_sample3_x100_4.png" "ws2_sample3_x20_3.png" "IMG_20161003_094331.jpg" "ws2_sample3_x20_5.png" "ws2_sample3_x20.png" "ws2cvt10.pdf" "ws2_sample3_x20_2.png" "Reports/" "ws2_sample3_x20_4.png" "ws2_sample3_x100.png" "ws2_sample2_x10.png" "j160101_AFM.png" "ws2_sample4_x20.png" "drawing.svg" "Projects/" "ws2_sample3_x100_2.png" ".ipynb_checkpoints/" "Presentation/" "ws2_sample4_x50.png" "IMG_20161003_150347.jpg" "ws2_sample3_x50_5.png" "Exfoliation/" "Papers/" "ws2_sample2_x50.png" "ws2_sample4_x100_2.png" "ws2_sample4_x100.png" "ws2_sample3_x50_2.png" "ws2cvt10.png" "ws2_sample3_x50_4.png" "drawing.pdf" "contamination.png" "ws2_sample3_x50.png")
+
+ ("/home/justin/Dropbox/lab/Reports/" (22616 53081 915406 100000) "./" "../" "Tufte-LaTeX-tufte-latex-85b49a3/" "Shisheng's Samples/" "Ivan's Metal Pores Samples/" "Template/")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/05/" (22532 28217 33419 975000) "J160502_optical_100.png" "./" "../" "J160503_optical_100.png" "spin_rate_profile.pdf" "J160502.jpg" "J160501.jpg" "J160503.jpg" "J160501_optical_100.png")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/06/" (22552 15302 486124 607000) "./" "../")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/15/" (22593 5735 618424 659000) "./" "../" "J161501_optical_20.png" "J161501_optical_100.png")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/" (22615 33201 590029 98000) "05/" "./" "../" "11/" "J161701_optical_20.png" "J161701_optical_100.png" "14/" "08/" "03/" ".Rhistory" "16/" "02/" "J160201.xcf" "15/" "12/" "01/" "06/" "09/" "18/" "04/" "*R*" "07/" "17/" "13/" ".RData" "10/")
+
+ ("/home/justin/Dropbox/lab/Projects/Lab Website/assets/js/" (22611 37492 385379 126000) "./" "../" "skel.min.js" "jquery.flexslider-min.js" "wow.js" "jquery.min.js" "jquery.flexslider.js" "main.js" "util.js" "ie/")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/17/" (22593 11680 774505 32000) "./" "../" "J161501_afm_10.txt" "J161501_afm_3.pdf" "17.r" "J161501_afm_3.txt" "J161501_afm_10.pdf")
+
+ ("/home/justin/Downloads/html5up-future-imperfect/" (22587 40923 592257 127000) "./" "../" "LICENSE.txt" "assets/" "images/" "index.html" "README.txt" "single.html")
+
+ ("/home/justin/Downloads/html5up-future-imperfect/assets/css/" (22506 3558 0 0) "./" "../" "main.css" "ie8.css" "ie9.css" "font-awesome.min.css")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/14/" (22578 44605 337452 251000) "./" "J160502_afm_5_hrb.txt" "../" "J160502_afm_5_hlb.pdf" "J160502_afm_5_hlb.txt" "14.r")
+
+ ("/home/justin/Dropbox/lab/Papers/" (22548 10505 727580 280000) "Sub-10 nm colloidal lithography for circuit-integrated spin-photo-electronic devices.pdf" "./" "../" "Photonics and optoelectronics of 2D semiconductor transition metal dichalcogenides.pdf" "Exfoliation of large-area transition metal chalcogenide single layers.pdf" "Exciton photoluminescence of quantum wells affected by thermal migration and inherent interface fluctuation.pdf" "Stokes shift in quantum wells -Trapping versus thermalization.pdf" "Exciton Binding Energy of Monolayer WS2.pdf" "ENLARGING THE SURFACE AREA OF MONOLAYER GRAPHENE SYNTHESIZED BY MECHANICAL EXFOLIATION.pdf" "High-Yield Production and Transfer of Graphene Flakes Obtained by Anodic Bonding.pdf" "Exciton Binding Energy and Nonhydrogenic Rydberg Series in Monolayer WS2.pdf" "Fabrication of Nanostructured Polymer Surfaces Using Colloidal Lithography and Spin-Coating.pdf" "jjap_55_8S1_08NA01.pdf" "A review on mechanical exfoliation for scalable production of graphene.pdf" "Phonons in single-layer and few-layer MoS2 and WS2.pdf" "Optoelectronics: A practical polariton laser.pdf" "ncomms12587.pdf" "Optical Spectra and Stokes Shift in Nanometric Quantum Wells.pdf")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/13/" (22578 44387 661834 900000) "./" "../" "J160502_afm_5_hlb.pdf" "J160502_afm_3.txt" "J160502_afm_3.pdf" "J160502_afm_10.pdf" "13.r" "J160502_afm_10.txt")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/12/" (22571 53925 471958 403000) "./" "../" "J160803_ref_cts_au_holes.pdf" "J160803_ref_au_holes.pdf" "J160803_ref_au.pdf" "J160803_ref_pores_1.txt" "J161201_ref_cts_incident.pdf" "J161202_ref_cu_1.txt" "J160803_ref_cts_all.pdf" "J160803_ref_pores.pdf" "J160803_ref_pores.txt" "J160803_ref_cts_au.pdf" "J161201_ref.txt" "12.r" "J161201_ref_incident.pdf" "J161202_ref_cu.txt" "J160803_ref_au.txt" "12.mdt" "J160803_ref_au_1.txt" "J160803_ref_all.pdf" "J161201_ref_1.txt")
+
+ ("/home/" (22520 27569 734355 496000) "./" "../" "justin/" "lost+found/")
+
+ ("/home/justin/Dropbox/lab/Reports/Ivan's Metal Pores Samples/" (22564 29096 325361 830000) "./" "../" "sample-handout.pdf" "tufte-common.def" "graphics/" "sample-handout.synctex.gz" "pores.tex" "pores.log" "pores.synctex.gz" "tufte-handout.cls" "tufte-book.cls" "sample-handout.bib" "new_file.pdf" "sample-handout.blg" "pores.out" "pores.aux" "pores.pdf" "sample-handout.out" "sample-handout.aux" "sample-handout.bbl" "auto/" "pores report.pdf" "sample-handout.log" "tufte.bst")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/09/" (22556 19772 870750 196000) "J160804_optical_10.png" "J160804_abs.pdf" "J160804_abs_all.pdf" "./" "../" "J160804.r" "J160804_transmission_au.txt" ".Rhistory" "09_justin.mdt" "J160804_transmission_au_holes.txt" "J160804_abs_au_holes.pdf" "J160804_abs_au.pdf" "J160804_optical_bot_10.png" "J160804_abs_diff.pdf" "J160804_transmission_all.pdf" "J160804_transmission_glass.txt" "J160804_transmission_au.pdf" "J160804_transmission_au_holes.pdf" "J160804_transmission_si3n4.txt" "J160804_transmission_glass.pdf")
+
+ ("/home/justin/Downloads/tufte-latex-master/" (22183 56919 0 0) "./" "History.txt" "../" "sample-handout.pdf" "tufte-common.def" "graphics/" "tufte-handout.cls" "tufte-book.cls" "sample-handout.bib" "README.md" "sample-handout.tex" "sample-book.pdf" "release" "sample-book.tex" ".gitignore" "Manifest.txt" "tufte.bst")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/07/" (22553 33525 775747 12000) "J160502_AFM_1.txt" "./" "../" "J160502_afm_1.pdf" ".Rhistory" "J160801_absorption.pdf" "J160502_afm_10.pdf" "J160502_AFM_10.r" "J160502_AFM_1.png" "J160502_AFM_10.png" "J160502_AFM_10.txt" "J160502_afm_1.r")
+
+ ("/home/justin/Dropbox/lab/Projects/Lab Website/assets/" (22526 63487 904439 0) "./" "../" "fonts/" "js/" "css/" "sass/")
+
+ ("/home/justin/Downloads/Tufte-LaTeX-tufte-latex-85b49a3/" (22542 50022 749209 86000) "sample-book.rip" "./" "History.txt" "../" "sample-book.lot" "sample-handout.pdf" "sample-book.ilg" "tufte-common.def" "sample-book.bbl" "sample-book.synctex.gz" "graphics/" "sample-book.out" "sample-book.aux" "sample-book.idx" "tufte-handout.cls" "tufte-book.cls" "sample-handout.bib" "README.md" "sample-book.pdf" "sample-book.toc" "sample-book.ind" "release" "sample-book.tex" ".gitignore" "sample-book.lof" "auto/" "sample-book.blg" "Manifest.txt" "sample-book.log" "tufte.bst")
+
+ ("/home/justin/Dropbox/lab/eda_lab/" (22547 5761 26597 897000) "./" "../" "people.html" "links.html" "LICENSE.txt" "assets/" "facilities.html" "images/" "archive.html" "index.html" "research.html" "positions.html" "publications.html" "single.html")
+
+ ("/home/justin/Documents/Neurohacking-master/" (22530 62738 371421 0) "week3/" "Basic_Data_Manipulations/" "./" "../" "fslr_reg_kirby/" "makefile.R" "week2/" "Image_Visualization/" "Installation.Rmd" "Installation.html" "ANTsR_reg/" "Icon" "Neuroconductor/" "README.md" "makefile" ".gitignore" ".gitattributes" "File_Formats/" ".dropbox" "fslr_reg/")
+
+ ("/home/justin/Downloads/html5up-future-imperfect/assets/" (22526 63487 904439 912000) "./" "../" "fonts/" "js/" "css/" "sass/")
+
+ ("/home/justin/Downloads/energy/energy/js/" (22526 61023 129830 7000) "./" "../" ".DS_Store" "jquery.flexslider-min.js" "bootstrap.min.js" "jquery.min.js" "superfish.js" "jquery.waypoints.min.js" "main.js")
+
+ ("/home/justin/Downloads/energy/energy/css/" (22526 60394 369256 448000) "./" "../" "animate.css" "superfish.css" ".DS_Store" "bootstrap.css" "flexslider.css" "style.css" "style.css.map" "bootstrap.css.map")
+
+ ("/home/justin/Downloads/energy/energy/" (22526 60573 973031 970000) "work.html" "./" "../" "about.html" "fonts/" "js/" ".DS_Store" "services.html" "css/" "blog.html" "images/" "index.html" "README.txt" "contact.html")
+
+ ("/home/justin/Downloads/energy/" (22526 54659 474773 554000) "./" "../" "energy/" "__MACOSX/")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/04/" (22524 16551 324677 630000) "J160201_afm_10.pdf" "J160201_afm_1.5.pdf" "./" "../" "1010185400S-Video.png" ".Rhistory" "J160201_afm_10x10.txt" "J160201_afm_1.5x1.5.txt")
+
+ ("/home/justin/Dropbox/lab/Notebook/graphics/03/" (22524 13148 564680 250000) "./" "../" "J160202_afm_10x10.txt" "J160101_afm.pdf")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
